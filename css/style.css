@@ -37,7 +37,7 @@ a{color: #f0f0f0;
 
           @media(max-width: 800px){
           	.container{
-          		width: 300px;
+          		width: 400px;
           		height: 500px;
           	}
           }
